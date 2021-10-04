@@ -1,4 +1,4 @@
-# https://j-jrt.github.io/deobfuscator/
+# https://letinhlinh.github.io/de4js/
 
 ![Logo](assets/images/icons/icon-128x128.png)
 
